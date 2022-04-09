@@ -36,7 +36,7 @@
     "lsd": "^0.0.1",
     "marked": "^0.6.2",
     "material-design-icons-iconfont": "^5.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "msgdown": "^1.0.2",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
